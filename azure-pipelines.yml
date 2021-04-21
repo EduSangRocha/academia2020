@@ -32,6 +32,14 @@ steps:
   inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
+
+- script: dotnet test XUnitTest --logger trx
+- task: PublishTestResult@2
+  condition: suceededOrFailed()
+  input:
+    testRunner: VsTest
+    testResultFiles: '**/*.trx'
+
 -task: DotNetCoreCLI@2
   input:
     command: test
