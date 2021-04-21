@@ -34,7 +34,7 @@ steps:
     configuration: '$(buildConfiguration)'
 
 - script: dotnet test XUnitTest --logger trx
-- task: PublishTestResult@2
+- task: PublishTestResults@2
   condition: succeededOrFailed()
   inputs:
     testRunner: VsTest
