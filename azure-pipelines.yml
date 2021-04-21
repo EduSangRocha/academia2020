@@ -40,7 +40,7 @@ steps:
     testRunner: VsTest
     testResultFiles: '**/*.trx'
 
--task: DotNetCoreCLI@2
+- task: DotNetCoreCLI@2
   input:
     command: test
     projects: 'XUnitTest.csproj'
