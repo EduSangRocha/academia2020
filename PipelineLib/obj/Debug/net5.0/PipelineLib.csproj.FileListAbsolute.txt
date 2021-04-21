@@ -1,0 +1,12 @@
+D:\Projects\Academia2020\DesigningImplementingDevOpsSolutions_042021\Code\Pipelines\PipelineLib\bin\Debug\net5.0\PipelineLib.deps.json
+D:\Projects\Academia2020\DesigningImplementingDevOpsSolutions_042021\Code\Pipelines\PipelineLib\bin\Debug\net5.0\PipelineLib.dll
+D:\Projects\Academia2020\DesigningImplementingDevOpsSolutions_042021\Code\Pipelines\PipelineLib\bin\Debug\net5.0\ref\PipelineLib.dll
+D:\Projects\Academia2020\DesigningImplementingDevOpsSolutions_042021\Code\Pipelines\PipelineLib\bin\Debug\net5.0\PipelineLib.pdb
+D:\Projects\Academia2020\DesigningImplementingDevOpsSolutions_042021\Code\Pipelines\PipelineLib\obj\Debug\net5.0\PipelineLib.csprojAssemblyReference.cache
+D:\Projects\Academia2020\DesigningImplementingDevOpsSolutions_042021\Code\Pipelines\PipelineLib\obj\Debug\net5.0\PipelineLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Academia2020\DesigningImplementingDevOpsSolutions_042021\Code\Pipelines\PipelineLib\obj\Debug\net5.0\PipelineLib.AssemblyInfoInputs.cache
+D:\Projects\Academia2020\DesigningImplementingDevOpsSolutions_042021\Code\Pipelines\PipelineLib\obj\Debug\net5.0\PipelineLib.AssemblyInfo.cs
+D:\Projects\Academia2020\DesigningImplementingDevOpsSolutions_042021\Code\Pipelines\PipelineLib\obj\Debug\net5.0\PipelineLib.csproj.CoreCompileInputs.cache
+D:\Projects\Academia2020\DesigningImplementingDevOpsSolutions_042021\Code\Pipelines\PipelineLib\obj\Debug\net5.0\PipelineLib.dll
+D:\Projects\Academia2020\DesigningImplementingDevOpsSolutions_042021\Code\Pipelines\PipelineLib\obj\Debug\net5.0\ref\PipelineLib.dll
+D:\Projects\Academia2020\DesigningImplementingDevOpsSolutions_042021\Code\Pipelines\PipelineLib\obj\Debug\net5.0\PipelineLib.pdb
