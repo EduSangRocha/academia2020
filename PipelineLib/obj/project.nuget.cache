@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zz2aeGoLBEQ0f4RfDlFQmE9twSLg0XbghC8fF0GE6GNfl5JAzmYt1c/bW+KEHou838ryWkwPO8ycHJIIAWZ1Tg==",
+  "dgSpecHash": "nVmZ2OO2DBz2Bbm+ij5WYt83Zel7uxqUIX+6cdt+oXMO2uW6IEiZ6Pf7NriqFM9iMvFV8DV829YvkOmYB4WZCw==",
   "success": true,
-  "projectFilePath": "D:\\Eduardo\\Documents\\Curso Software Dev pt 2\\Pipelines\\PipelineLib\\PipelineLib.csproj",
+  "projectFilePath": "C:\\Users\\Eduardo\\Source\\Repos\\PipelineAcad2020_part_02\\PipelineLib\\PipelineLib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

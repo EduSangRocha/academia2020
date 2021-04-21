@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Eduardo\\Documents\\Curso Software Dev pt 2\\Pipelines\\PipelineWebApi\\PipelineWebApi\\PipelineWebApi.csproj": {}
+    "C:\\Users\\Eduardo\\Source\\Repos\\PipelineAcad2020_part_02\\PipelineWebApi\\PipelineWebApi\\PipelineWebApi.csproj": {}
   },
   "projects": {
-    "D:\\Eduardo\\Documents\\Curso Software Dev pt 2\\Pipelines\\PipelineWebApi\\PipelineWebApi\\PipelineWebApi.csproj": {
+    "C:\\Users\\Eduardo\\Source\\Repos\\PipelineAcad2020_part_02\\PipelineWebApi\\PipelineWebApi\\PipelineWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Eduardo\\Documents\\Curso Software Dev pt 2\\Pipelines\\PipelineWebApi\\PipelineWebApi\\PipelineWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Eduardo\\Source\\Repos\\PipelineAcad2020_part_02\\PipelineWebApi\\PipelineWebApi\\PipelineWebApi.csproj",
         "projectName": "PipelineWebApi",
-        "projectPath": "D:\\Eduardo\\Documents\\Curso Software Dev pt 2\\Pipelines\\PipelineWebApi\\PipelineWebApi\\PipelineWebApi.csproj",
+        "projectPath": "C:\\Users\\Eduardo\\Source\\Repos\\PipelineAcad2020_part_02\\PipelineWebApi\\PipelineWebApi\\PipelineWebApi.csproj",
         "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-        "outputPath": "D:\\Eduardo\\Documents\\Curso Software Dev pt 2\\Pipelines\\PipelineWebApi\\PipelineWebApi\\obj\\",
+        "outputPath": "C:\\Users\\Eduardo\\Source\\Repos\\PipelineAcad2020_part_02\\PipelineWebApi\\PipelineWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",

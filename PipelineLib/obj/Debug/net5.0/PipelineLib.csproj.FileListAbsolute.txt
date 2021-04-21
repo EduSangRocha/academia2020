@@ -10,3 +10,15 @@ D:\Projects\Academia2020\DesigningImplementingDevOpsSolutions_042021\Code\Pipeli
 D:\Projects\Academia2020\DesigningImplementingDevOpsSolutions_042021\Code\Pipelines\PipelineLib\obj\Debug\net5.0\PipelineLib.dll
 D:\Projects\Academia2020\DesigningImplementingDevOpsSolutions_042021\Code\Pipelines\PipelineLib\obj\Debug\net5.0\ref\PipelineLib.dll
 D:\Projects\Academia2020\DesigningImplementingDevOpsSolutions_042021\Code\Pipelines\PipelineLib\obj\Debug\net5.0\PipelineLib.pdb
+C:\Users\Eduardo\Source\Repos\PipelineAcad2020_part_02\PipelineLib\bin\Debug\net5.0\PipelineLib.deps.json
+C:\Users\Eduardo\Source\Repos\PipelineAcad2020_part_02\PipelineLib\bin\Debug\net5.0\PipelineLib.dll
+C:\Users\Eduardo\Source\Repos\PipelineAcad2020_part_02\PipelineLib\bin\Debug\net5.0\ref\PipelineLib.dll
+C:\Users\Eduardo\Source\Repos\PipelineAcad2020_part_02\PipelineLib\bin\Debug\net5.0\PipelineLib.pdb
+C:\Users\Eduardo\Source\Repos\PipelineAcad2020_part_02\PipelineLib\obj\Debug\net5.0\PipelineLib.csprojAssemblyReference.cache
+C:\Users\Eduardo\Source\Repos\PipelineAcad2020_part_02\PipelineLib\obj\Debug\net5.0\PipelineLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Source\Repos\PipelineAcad2020_part_02\PipelineLib\obj\Debug\net5.0\PipelineLib.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Source\Repos\PipelineAcad2020_part_02\PipelineLib\obj\Debug\net5.0\PipelineLib.AssemblyInfo.cs
+C:\Users\Eduardo\Source\Repos\PipelineAcad2020_part_02\PipelineLib\obj\Debug\net5.0\PipelineLib.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Source\Repos\PipelineAcad2020_part_02\PipelineLib\obj\Debug\net5.0\PipelineLib.dll
+C:\Users\Eduardo\Source\Repos\PipelineAcad2020_part_02\PipelineLib\obj\Debug\net5.0\ref\PipelineLib.dll
+C:\Users\Eduardo\Source\Repos\PipelineAcad2020_part_02\PipelineLib\obj\Debug\net5.0\PipelineLib.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Eduardo\\Documents\\Curso Software Dev pt 2\\Pipelines\\PipelineLib\\PipelineLib.csproj": {}
+    "C:\\Users\\Eduardo\\Source\\Repos\\PipelineAcad2020_part_02\\PipelineLib\\PipelineLib.csproj": {}
   },
   "projects": {
-    "D:\\Eduardo\\Documents\\Curso Software Dev pt 2\\Pipelines\\PipelineLib\\PipelineLib.csproj": {
+    "C:\\Users\\Eduardo\\Source\\Repos\\PipelineAcad2020_part_02\\PipelineLib\\PipelineLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Eduardo\\Documents\\Curso Software Dev pt 2\\Pipelines\\PipelineLib\\PipelineLib.csproj",
+        "projectUniqueName": "C:\\Users\\Eduardo\\Source\\Repos\\PipelineAcad2020_part_02\\PipelineLib\\PipelineLib.csproj",
         "projectName": "PipelineLib",
-        "projectPath": "D:\\Eduardo\\Documents\\Curso Software Dev pt 2\\Pipelines\\PipelineLib\\PipelineLib.csproj",
+        "projectPath": "C:\\Users\\Eduardo\\Source\\Repos\\PipelineAcad2020_part_02\\PipelineLib\\PipelineLib.csproj",
         "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-        "outputPath": "D:\\Eduardo\\Documents\\Curso Software Dev pt 2\\Pipelines\\PipelineLib\\obj\\",
+        "outputPath": "C:\\Users\\Eduardo\\Source\\Repos\\PipelineAcad2020_part_02\\PipelineLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
