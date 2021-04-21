@@ -35,7 +35,7 @@ steps:
 
 - script: dotnet test XUnitTest --logger trx
 - task: PublishTestResult@2
-  condition: suceededOrFailed()
+  condition: succeededOrFailed()
   input:
     testRunner: VsTest
     testResultFiles: '**/*.trx'
