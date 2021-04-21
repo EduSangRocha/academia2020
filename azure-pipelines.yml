@@ -36,12 +36,12 @@ steps:
 - script: dotnet test XUnitTest --logger trx
 - task: PublishTestResult@2
   condition: succeededOrFailed()
-  input:
+  inputs:
     testRunner: VsTest
     testResultFiles: '**/*.trx'
 
 - task: DotNetCoreCLI@2
-  input:
+  inputs:
     command: test
     projects: 'XUnitTest.csproj'
     arguments: '--configuration $(buildConfiguration)'
