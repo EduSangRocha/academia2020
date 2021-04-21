@@ -38,7 +38,7 @@ steps:
   condition: succeededOrFailed()
   inputs:
     testRunner: VsTest
-    testResultFiles: '**/*.trx'
+    testResultsFiles: '**/*.trx'
 
 - task: DotNetCoreCLI@2
   inputs:
