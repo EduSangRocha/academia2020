@@ -14,7 +14,7 @@ variables:
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
    # Azure service connection established during pipeline creation
-  azureSubscription: 'Computencial(5a0d946c-4db4-4de4-bf47-49efef177a86)'
+  azureSubscription: 'cpx'
   appName: 'eduardopipeline'
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
