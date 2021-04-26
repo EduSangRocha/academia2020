@@ -14,8 +14,8 @@ variables:
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
    # Azure service connection established during pipeline creation
-  azureSubscription: 'cpx2'
-  appName: 'eduardopipeline'
+  azureSubscription: 'edupipe'
+  appName: 'acad2020eduardo'
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
 
